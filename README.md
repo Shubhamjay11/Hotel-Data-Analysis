@@ -11,6 +11,9 @@ We have historic data of hotels in various fields over period of three years tha
 4) Visualize
 5) Summarize Findings
 
+![image](https://github.com/Shubhamjay11/Hotel-Data-Analysis/assets/116708200/68dbe313-a680-4ec6-aa67-d0c63a3e356e)
+
+
 ## Questions which we will answer by visualization 
 
 1) Is our hotel revenue growing by year?
